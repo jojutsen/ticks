@@ -1,3 +1,3 @@
 ## InstaVerified
 
-*Verified Badge Official my own server/URL link (blue tick URL address)
+``Verified Badge Official my own server/URL link (blue tick URL address)``
